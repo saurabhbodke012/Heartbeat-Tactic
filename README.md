@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Heartbeat-Tactic
 =======
 # Fault Detection: Heartbeat tactic
