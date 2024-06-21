@@ -1,6 +1,5 @@
 
 # Heartbeat-Tactic
-=======
 # Fault Detection: Heartbeat tactic
 
 ## What is Heartbeat tactic?
